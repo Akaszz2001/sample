@@ -1,0 +1,28 @@
+body{
+   background-color: rgb(147, 185, 147);
+   
+}
+#home{
+   position: fixed;
+   width: 100%;
+   z-index: 1;
+}
+#firstSection{
+   padding-top: 9em;
+}
+html{
+   scroll-behavior: smooth;
+}
+.error{
+   color: red;
+   font-weight: 700;
+}
+/*sLinks:- socila media links */
+.sLinks{
+   text-decoration: none;
+   color: white;
+}
+.fa-brands{
+   font-size: 30px;
+   width: 80px;
+}
